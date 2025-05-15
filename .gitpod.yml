@@ -1,0 +1,12 @@
+# .gitpod.yml
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: sudo apt-get update
+    command: echo "All tools are preinstalled and ready to use."
+
+vscode:
+  extensions:
+    - ms-python.python
+    - eamodio.gitlens
