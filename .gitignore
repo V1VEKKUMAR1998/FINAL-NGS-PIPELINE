@@ -1,0 +1,8 @@
+ERR5743893_1_paired.fastq
+ERR5743893_2_paired.fastq
+*.fastq
+*.bam
+*.sam
+*.fastq
+*.sam
+*.bam
