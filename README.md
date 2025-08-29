@@ -42,7 +42,7 @@
 
 - visualizationngs1.py provides visual insights into read/variant distribution.
 
- **Tools & Technologies**
+## **Tools & Technologies**
 
 - Languages: Python (for visualization)
 
