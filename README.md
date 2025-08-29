@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-Objective: To process raw sequencing reads and identify genetic variants.
+ Objective: To process raw sequencing reads and identify genetic variants.
 
 Data: Paired-end sequencing files (ERR5743893_1.fastq.gz, ERR5743893_2.fastq.gz) aligned to the reference genome (MN908947.fasta).
 
