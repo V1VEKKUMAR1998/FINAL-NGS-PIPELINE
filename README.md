@@ -8,7 +8,7 @@
 
 - Output: A variant call file (ERR5743893_trimmed.vcf) and visualizations created via Python.
 
-##**Repository Structure**
+## **Repository Structure**
 
 - .gitignore → Excludes large files from version control.
 
@@ -24,7 +24,7 @@
 
 - README.md → Project documentation (this file).
 
-##**Workflow**
+## **Workflow**
 
 - Quality Control & Preprocessing
 
@@ -38,11 +38,11 @@
 
 - Generated variant calls stored in ERR5743893_trimmed.vcf.
 
-##**Visualization**
+## **Visualization**
 
 - visualizationngs1.py provides visual insights into read/variant distribution.
 
-**Tools & Technologies**
+ **Tools & Technologies**
 
 - Languages: Python (for visualization)
 
@@ -50,7 +50,7 @@
 
 - Data formats: FASTQ, FASTA, VCF
 
-##**Future Improvements**
+## **Future Improvements**
 
 - Automate the pipeline with a shell script.
 
